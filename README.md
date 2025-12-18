@@ -1,2 +1,2 @@
-# awesome-natural-language-processing
-Awesome Natural language processing
+# Awesome NLP ( _Natural Language Processing_ )
+
