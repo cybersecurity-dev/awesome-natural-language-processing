@@ -1,6 +1,6 @@
 <div align="center">
     
-# **`Awesome`** [NLP](https://wikipedia.org/wiki/Natural_language_processing) ( _Natural Language Processing_ ) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [NLP](https://wikipedia.org/wiki/Natural_language_processing) (_Natural Language Processing_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWzTYjmDxqtsfg38Fps4Hd4&si=3MVTWkspMjBhtLVQ)
@@ -20,6 +20,11 @@
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+
+## Word Segmentation (_Tokenization_)
+
+Tokenization is a text-processing technique that divides text into individual words or word fragments. This technique results in two key components: **`a word index`** and **`tokenized text`**. The word index is a list that maps unique words to specific numerical identifiers, and the tokenized text replaces each word with its corresponding numerical token. These numerical tokens are then used in various deep learning methods.
 
 
 ##
