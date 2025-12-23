@@ -1,9 +1,9 @@
 <div align="center">
     
-# **`Awesome`** NLP ( _Natural Language Processing_ ) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [NLP](https://wikipedia.org/wiki/Natural_language_processing) ( _Natural Language Processing_ ) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWzTYjmDxqtsfg38Fps4Hd4&si=3MVTWkspMjBhtLVQ)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 <p align="center">
