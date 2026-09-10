@@ -1,5 +1,63 @@
 <div align="center">
-    
+
+```mermaid
+mindmap
+  root((NLP))
+
+    Linguistics
+      Morphology
+      Syntax
+      Semantics
+      Pragmatics
+
+    Preprocessing
+      Tokenization
+      Stemming
+      Lemmatization
+      Stopwords
+
+    Representations
+      Bag of Words
+      TF-IDF
+      Word2Vec
+      GloVe
+      FastText
+      BERT
+
+    Machine Learning
+      Classification
+      Clustering
+      Regression
+
+    Deep Learning
+      RNN
+      LSTM
+      GRU
+      Seq2Seq
+
+    Transformers
+      Attention
+      Encoder
+      Decoder
+      BERT
+      GPT
+      T5
+
+    Applications
+      Translation
+      Summarization
+      Chatbots
+      Search
+      Question Answering
+      RAG
+
+    LLMs
+      Prompt Engineering
+      Fine Tuning
+      RLHF
+      Agents
+```
+
 # **`Awesome`** [NLP](https://wikipedia.org/wiki/Natural_language_processing) (_Natural Language Processing_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
@@ -9,12 +67,29 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+flowchart TD
+
+A[Text]
+
+A --> B[Bag of Words]
+A --> C[N-Grams]
+A --> D[TF-IDF]
+A --> E[Word2Vec]
+A --> F[GloVe]
+A --> G[FastText]
+A --> H[BERT Embeddings]
+
+style B fill:#3498db,color:#fff
+style D fill:#2ecc71,color:#fff
+style H fill:#e74c3c,color:#fff
+```
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
@@ -38,15 +113,15 @@ The embedding matrix size is: **`vocab_size × embedding_dim`**
 ##
 
 ### My Other Awesome Lists
-
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-natural-language-processing/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-nlp-natural-language-processing-)
